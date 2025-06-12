@@ -1,0 +1,81 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: Tahoma; 
+
+}
+
+body{
+
+ color: #212f3c ;
+}
+
+header{
+
+    background-color: #212f3c;
+    color: #fff;
+    padding: 15px;
+    text-align: center;
+border-bottom: 3px solid #EC3900;
+    
+}
+
+h3{
+
+    font-family: Verdana;
+    color: #F70D1A;
+}
+
+
+.container{
+    background-color: #eee;
+    min-height: 60vh;
+    padding: 50px;
+
+}
+.produtos-container{
+
+    max-width: 1200px;
+    margin: auto;
+}
+
+.card{
+
+    width: 31%;
+    margin: 1%;
+    display: inline-block;
+    padding: 15px;
+
+}
+.produto-image{
+
+    width: 100%;
+    height: 300px;
+    margin-bottom: 10px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 30%;
+    border:2px solid #212f3c;
+
+}
+#img-1{
+
+    background-image:url("../imagens/tenis1.jpg");
+}
+#img-2{
+
+    background-image:url("../imagens/tenis2.jpg");
+}#img-3{
+
+    background-image:url("../imagens/tenis3.jpg");
+}#img-4{
+
+    background-image:url("../imagens/tenis4.jpg");
+}#img-5{
+
+    background-image:url("../imagens/tenis5.jpg");
+}#img-6{
+
+    background-image:url("../imagens/tenis6.jpg");
+}

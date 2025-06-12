@@ -1,0 +1,60 @@
+.teste {
+	color: red;
+	background-size: auto;
+	font-size: 60px;
+	border: 10px solid yellow;
+	border-radius: 100px;
+	text-align: center;
+}
+.teste2 {
+	background-image:url('sim1.jpg');
+	color: orange;
+	background-size: cover;
+	font-size: 90px;
+}
+.teste3 {
+	background-image:url('sim1.jpg');
+	color: orange;
+	background-origin: border-box;
+	font-size: 90px;
+}
+.teste4 {
+	background-image:url('sim1.jpg');
+	color: orange;
+	background-clip: border-box;
+	font-size: 90px;
+}
+.teste5 {
+	background-image:url('duck.gif');
+	color: orange;
+	background-attachment: scroll;
+	font-size: 90px;
+}
+.teste6 {
+	background-image:url('duck.gif');
+	color: orange;
+	background-position: : center center;
+	font-size: 90px;
+	background-repeat: no-repeat;
+}
+.teste7 {
+	background-color: grey;
+	color: blue;
+	padding-top: 50px;
+	padding-right: 30px;
+	padding-bottom: 50px;
+	padding-left: 80px;
+	border: 30px;
+	border-style: groove;
+	border-color: black;
+}
+.teste8 {
+	background-image: linear-gradient(90deg, rgba(222, 74, 255, 1) 0%, rgba(242, 210, 77, 1) 50%, rgba(255, 244, 171, 1) 100%);
+}
+body {
+	background-image: linear-gradient(90deg, rgba(222, 74, 255, 1) 0%, rgba(242, 210, 77, 1) 50%, rgba(255, 244, 171, 1) 100%);
+}
+.imagem {
+	
+	background-position: center center; 
+}
